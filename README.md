@@ -17,43 +17,54 @@ I care about AI that *does something useful*—drives decisions, automates work,
 ## 🧠 AI & ML
 
 [![AI Skills](https://skillicons.dev/icons?i=py,linux,aws)](https://skillicons.dev)  
-LLMs • RAG • Agents • Evaluation • Prompt Engineering
 
-- LLM‑powered assistants, copilots, and task agents.  
-- Retrieval‑augmented generation (RAG) with embeddings and vector search.  
-- Prompt architecture, safety/guardrails, and automated evaluation workflows.
+**AI Focus:**  
+LLMs • RAG • Agents • Prompt Engineering • Evaluation • Vector Search  
 
----
-
-## 🧩 Backend & Infra
-
-[![Backend Skills](https://skillicons.dev/icons?i=nodejs,ts,fastapi,postgres,redis,docker)](https://skillicons.dev)  
-APIs • Data Pipelines • Queues • Observability • CI/CD
-
-- Node.js / TypeScript, Python, REST/GraphQL APIs, background workers.  
-- SQL/NoSQL databases, caching layers, queues, and task orchestration.  
-- Containerized deployments, CI/CD, logging, tracing, and performance tuning.
+- OpenAI / Anthropic / local models  
+- Embeddings & semantic search (RAG pipelines)  
+- Prompt architecture & reusable templates  
+- Guardrails, safety, and regression evals
 
 ---
 
-## 🎨 Frontend
+## 🧩 Backend & Infrastructure
 
-[![Frontend Skills](https://skillicons.dev/icons?i=react,nextjs,tailwind)](https://skillicons.dev)  
-AI‑first UX • Dashboards • Copilot Interfaces • Design Systems
+[![Backend & Infra](https://skillicons.dev/icons?i=nodejs,ts,fastapi,express,postgres,redis,docker,nginx,git)](https://skillicons.dev)  
 
-- React / Next.js frontends for AI‑heavy applications.  
-- Chat UIs, in‑product copilots, workflow builders, and admin dashboards.  
-- Clean, responsive interfaces that make complex AI behavior understandable.
+**Backend Focus:**  
+APIs • Data Pipelines • Queues • Observability • CI/CD  
+
+- Node.js / TypeScript, Python (FastAPI / Express)  
+- SQL (Postgres) and key‑value / cache (Redis)  
+- Containerization with Docker, reverse proxy (Nginx)  
+- Git‑based workflows, automated testing, and deployments
 
 ---
 
-## 🧩 Selected Projects
+## 🎨 Frontend & Product
 
-- **[Project Name #1]** – Brief description of an AI copilot/agent you built (e.g., “LLM‑powered internal copilot with RAG, tools, and evaluation harness for [domain].”).  
-- **[Project Name #2]** – Full‑stack AI app (e.g., “Next.js + Python backend, vector search, auth, and usage analytics for an AI‑driven product.”).  
-- **[Project Name #3]** – Infra or reliability tooling (e.g., “Evaluation and tracing layer for LLM workflows with regression tests and dashboards.”).
+[![Frontend](https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,js)](https://skillicons.dev)  
 
-> See pinned repositories below for code, architecture diagrams, and more detailed examples.
+**Frontend Focus:**  
+AI‑first UX • Dashboards • Copilot Interfaces • Design Systems  
+
+- React / Next.js for AI‑driven apps  
+- Tailwind CSS for rapid, consistent UI  
+- Chat interfaces, inline copilots, admin panels
+
+---
+
+## 🛠 Tools & Platforms
+
+[![Tools](https://skillicons.dev/icons?i=vscode,github,gitlab,vercel,aws,gcp,linux)](https://skillicons.dev)  
+
+**Ecosystem:**  
+DevEx • Cloud • Collaboration  
+
+- VS Code, GitHub / GitLab workflows  
+- Deployments on Vercel / AWS / GCP  
+- Linux‑based development and server environments
 
 ---
 
