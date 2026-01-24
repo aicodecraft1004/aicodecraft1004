@@ -1,82 +1,67 @@
+# Hi — I’m an AI / Full-Stack Engineer
 
-# Hi, I'm Senior AI & Full-Stack Engineer 👋  
+I build **production-grade AI systems** (LLM features, RAG, and agent workflows) with an emphasis on **evaluation, observability, and reliable delivery**.
 
-Building reliable, production‑grade AI systems
-
----
-
-## 🚀 What I Do
-
-- Design and ship **AI‑native products**: copilots, agents, and intelligent workflows that people actually use in real systems.  
-- Build **LLM systems end‑to‑end**: retrieval (RAG), tools, memory, and evaluation wired into production backends and frontends.  
-- Focus on **reliability and observability**: tracing, guardrails, tests, and clear failure modes instead of fragile demos.
-
-I care about AI that *does something useful*—drives decisions, automates work, and fits cleanly into existing products and infrastructure.
+- Focus: **measurable quality**, **safe iteration**, and **operational readiness** (not just demos)
+- Comfortable owning end-to-end: UX/API/data/integrations → deployment → monitoring
+- Best fit: teams shipping AI to real users with constraints (latency, cost, privacy, compliance)
 
 ---
 
-## 🧠 AI & ML
+## Core capabilities
+### LLM + Retrieval (RAG)
+- Hybrid retrieval, reranking, metadata filters, citations, freshness strategies
+- Guardrails (structured outputs, tool-use constraints, fallback/abstain policies)
+- Prompt/version discipline (regression tests, prompt diffs, rollback-ready changes)
 
-[![AI Skills](https://skillicons.dev/icons?i=py,linux,aws)](https://skillicons.dev)  
+### Agents + Workflow Automation
+- Tool-using agents with retries/fallbacks/escalation + idempotent actions
+- Memory strategies (short-term state, long-term retrieval, structured facts/relationships)
+- Human-in-the-loop review flows (confidence gating, audit trails)
 
-**AI Focus:**  
-LLMs • RAG • Agents • Prompt Engineering • Evaluation • Vector Search  
+### Evaluation + Observability
+- Eval harnesses (golden sets, win-rates, regression suites, error taxonomies)
+- Telemetry (tracing, cost/latency KPIs, retrieval diagnostics, failure analytics)
+- Online monitoring for drift, hallucinations, and retrieval degradation
 
-- OpenAI / Anthropic / local models  
-- Embeddings & semantic search (RAG pipelines)  
-- Prompt architecture & reusable templates  
-- Guardrails, safety, and regression evals
-
----
-
-## 🧩 Backend & Infrastructure
-
-[![Backend & Infra](https://skillicons.dev/icons?i=nodejs,ts,fastapi,express,postgres,redis,docker,nginx,git)](https://skillicons.dev)  
-
-**Backend Focus:**  
-APIs • Data Pipelines • Queues • Observability • CI/CD  
-
-- Node.js / TypeScript, Python (FastAPI / Express)  
-- SQL (Postgres) and key‑value / cache (Redis)  
-- Containerization with Docker, reverse proxy (Nginx)  
-- Git‑based workflows, automated testing, and deployments
+### Backend + Data (to make AI real)
+- Python (FastAPI/Django) / Node.js, Postgres, queues/workers, webhooks
+- Integrations (OAuth, third-party APIs), rate limiting, reliability patterns
 
 ---
 
-## 🎨 Frontend & Product
+## Selected work (best proof)
+- **<Project A: RAG/Agent System>** — <one-line outcome: quality/cost/latency/reliability>  
+  Repo: <link> · Demo: <link> · Notes: <link>
 
-[![Frontend](https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,js)](https://skillicons.dev)  
+- **<Project B: Evaluation/Observability>** — <one-line outcome: regressions caught / quality measured>  
+  Repo: <link> · Demo: <link>
 
-**Frontend Focus:**  
-AI‑first UX • Dashboards • Copilot Interfaces • Design Systems  
-
-- React / Next.js for AI‑driven apps  
-- Tailwind CSS for rapid, consistent UI  
-- Chat interfaces, inline copilots, admin panels
-
----
-
-## 🛠 Tools & Platforms
-
-[![Tools](https://skillicons.dev/icons?i=vscode,github,gitlab,vercel,aws,gcp,linux)](https://skillicons.dev)  
-
-**Ecosystem:**  
-DevEx • Cloud • Collaboration  
-
-- VS Code, GitHub / GitLab workflows  
-- Deployments on Vercel / AWS / GCP  
-- Linux‑based development and server environments
+- **<Project C: Full-stack AI Feature>** — <one-line outcome: shipped to users / ops reduction>  
+  Repo: <link> · Demo: <link>
 
 ---
 
-## 🧱 How I Work
-
-- Start from the **real workflow and constraints**, then choose the right models and architecture.  
-- Design **simple, composable systems** that are easy to reason about and extend.  
-- Ship iteratively with **tests, observability, and clear interfaces** so teams can trust and build on the system.
-
-If you need AI features that are **robust enough for production** and aligned with real product goals, that’s where I’m most effective.
+## Mini case study (5 lines)
+**Problem:** <what was failing: hallucinations, retrieval misses, inconsistent tool use>  
+**Constraints:** <latency/cost/privacy/compliance/timeline>  
+**Approach:** <retrieval + evals + guardrails + telemetry>  
+**Result:** <metric 1> · <metric 2> · <metric 3>  
+**Why it worked:** measurable baselines + instrumentation + iterative fixes
 
 ---
 
-Open to collaborating on ambitious AI products, dev tools, and systems that make intelligent software feel dependable.
+## How I work
+- Start with a **failure-mode audit** → propose options with tradeoffs
+- Establish **eval baselines** before tuning (so changes are measurable)
+- Ship incrementally with staging + rollback-friendly releases
+- Deliver handoff-ready docs (architecture notes + runbooks + “how to extend”)
+
+---
+
+## Contact (privacy-friendly)
+- Discord: **<your_handle>**
+- Email: **<work_email_or_alias>**
+- Optional: Calendly / Notion intro: <link>
+
+If you share the goal + constraints, I can propose an approach and evaluation plan quickly.
