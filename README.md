@@ -13,19 +13,6 @@ I build production-grade AI products and scalable web platforms for startups —
 <b>Focus:</b> LLM Agents • RAG • React/TypeScript • Python/Node • Postgres • Cloud/Observability
 </p>
 
-<p align="center">
-<b>Discord:</b> <i>[your_discord_handle]</i> &nbsp;·&nbsp;
-<b>Email:</b> <i>[your_email]</i> &nbsp;·&nbsp;
-<b>Timezone:</b> <i>UTC+1</i> &nbsp;·&nbsp;
-<b>Open to:</b> Senior/Staff + Founding Engineer (AI / Full-Stack)
-</p>
-
-<p align="center">
-<a href="https://www.linkedin.com/in/[your_linkedin]/">LinkedIn</a> ·
-<a href="https://[your_portfolio_domain]/">Portfolio</a> ·
-<a href="https://cal.com/[your_handle]">Calendar</a>
-</p>
-
 <hr/>
 
 ## What I do (startup-ready)
