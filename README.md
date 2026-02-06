@@ -70,15 +70,15 @@
 
 <hr/>
 <p align="center">
-  <a href="mailto:YOUR_EMAIL@example.com" title="Email">
+  <a href="mailto:ajay.jagu@usa.com" title="Email">
     Email
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://t.me/YOUR_TELEGRAM_ID" title="Telegram">
+  <a href="https://t.me/@aicodecraft1004" title="Telegram">
     Telegram
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_HANDLE/" title="LinkedIn">
+  <a href="https://www.linkedin.com/in/ajay-jagu-4877942bb" title="LinkedIn">
     Linkedin
   </a>
 </p>
