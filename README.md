@@ -17,7 +17,7 @@
 - Ship **RAG systems** that stay grounded: chunking strategy, hybrid retrieval, reranking, citations, eval harness, and monitoring.
 - Deliver **fast, consistent UI** in React/Next.js with clean state management, testing, and performance discipline.
 - Engineer **reliable backends**: FastAPI/Django/Node, Postgres, queues, webhooks, idempotency, rate-limits, and observability.
-- Own features end-to-end: discovery → architecture → implementation → rollout → **SLI/SLOs** and iteration.
+- Own features end-to-end: discovery - architecture - implementation - rollout - **SLI/SLOs** and iteration.
 
 <hr/>
 
