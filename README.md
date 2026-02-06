@@ -68,20 +68,5 @@
   </tr>
 </table>
 
-<hr/>
-<p align="center">
-  <a href="mailto:ajay.jagu@usa.com" title="Email">
-    Email
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://t.me/@aicodecraft1004" title="Telegram">
-    Telegram
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/ajay-jagu-4877942bb" title="LinkedIn">
-    Linkedin
-  </a>
-</p>
-
 
 
